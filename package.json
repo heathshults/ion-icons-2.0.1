@@ -1,0 +1,24 @@
+{
+  "name": "ionicons-2.0.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cheatsheet.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heathshults/ion-icons-2.0.1.git"
+  },
+  "keywords": [
+    "icon",
+    "font",
+    "icons"
+  ],
+  "author": "ionic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heathshults/ion-icons-2.0.1/issues"
+  },
+  "homepage": "https://github.com/heathshults/ion-icons-2.0.1#readme"
+}
